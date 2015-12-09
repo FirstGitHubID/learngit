@@ -1,0 +1,53 @@
+[33mcommit 5779faca5d976d899a101ff86eefc91adfa125ea[m
+Author: ArnoLee <15010955153@163.com>
+Date:   Wed Dec 9 15:36:06 2015 +0800
+
+    add a test file
+
+[33mcommit 35c9889ff01582d660823050cfab05a658bb2cee[m
+Author: ArnoLee <15010955153@163.com>
+Date:   Wed Dec 9 15:26:16 2015 +0800
+
+    test1
+
+[33mcommit 4822c91c4893368f5c48e3cc9c1048fdfba4ae5b[m
+Author: ArnoLee <15010955153@163.com>
+Date:   Wed Dec 9 15:16:35 2015 +0800
+
+    checkout test
+
+[33mcommit bf3fa14b75945808b78e8558810ef0d0f3bac50e[m
+Author: ArnoLee <15010955153@163.com>
+Date:   Wed Dec 9 15:09:49 2015 +0800
+
+    第二次修改
+
+[33mcommit 97b81d4ece82e3dc096418201750e39dbaab82cd[m
+Author: ArnoLee <15010955153@163.com>
+Date:   Wed Dec 9 15:06:31 2015 +0800
+
+    git tracks changes
+
+[33mcommit 6360eac21edaef953950619cd1121c26f1d781d1[m
+Author: ArnoLee <15010955153@163.com>
+Date:   Wed Dec 9 15:01:01 2015 +0800
+
+    understand  how stage works
+
+[33mcommit ebfe7627ec406c22b7f795176d89d3165d146bd6[m
+Author: ArnoLee <15010955153@163.com>
+Date:   Wed Dec 9 14:01:26 2015 +0800
+
+    change a word
+
+[33mcommit 3cdfbdfe36c1d748c4219dafcdf65fcadc77ebe3[m
+Author: ArnoLee <15010955153@163.com>
+Date:   Wed Dec 9 13:58:47 2015 +0800
+
+    add distributed
+
+[33mcommit 06509e8ee0840ec01dd7bba5a57846d6d65e5694[m
+Author: ArnoLee <15010955153@163.com>
+Date:   Wed Dec 9 13:40:03 2015 +0800
+
+    wrote a readme file
